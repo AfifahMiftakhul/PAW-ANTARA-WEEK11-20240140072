@@ -3,6 +3,10 @@ landing page
 <img width="1294" height="790" alt="Screenshot 2026-08-18 at 16 27 44" src="https://github.com/user-attachments/assets/b4882270-b036-4256-a09a-ef3029b05469" />
 <img width="1253" height="728" alt="Screenshot 2026-08-18 at 16 28 00" src="https://github.com/user-attachments/assets/3b48b1b6-3bc3-494d-b2c3-261ef32d25ae" />
 
+cari produk
+<img width="1292" height="680" alt="Screenshot 2026-08-18 at 16 53 06" src="https://github.com/user-attachments/assets/023fc3a9-fdb3-408a-b31e-638bcc43a864" />
+
+
 keranjang
 <img width="1370" height="833" alt="Screenshot 2026-08-18 at 16 28 28" src="https://github.com/user-attachments/assets/1788ded1-ac30-4dba-adb3-26c54ce4e0f9" />
 
